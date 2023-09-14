@@ -1,0 +1,16 @@
+* {
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+h1 {
+    text-align: center;
+    margin: 50px 0;
+    font-size: 40px;
+}
+
+.bio {
+    text-align: center;
+    margin: 0 0 0px 0;
+    font-family: cursive;
+}
